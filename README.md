@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🛸 **Crafting Code with Purpose**: I’m currently diving deep into **Software Engineering** dedicating myself to **Full Stack Development**. I thrive on authenticity, bravery, and empathy in every line of code.
 
-- 💬 **Let's Connect and Create**: Feel free to email me about **React, Node.j, Full-Stack Development, Cloud Services** and beyond! Always open to new friend 😉
+- 💬 **Let's Connect and Create**: Feel free to email me about **React, Node.js, Full-Stack Development, Cloud Services** and beyond! Always open to new friend 😉
 
 <p align="center">
   <img src="https://github.com/Eve-G99/Personal-Use/blob/main/ezgif.com-resize.gif?raw=true" alt="Rotating Display"/>
