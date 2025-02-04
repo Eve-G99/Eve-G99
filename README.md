@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">👋 Hi there, I'm Eve! 🌊</h1>
+<h1 align="center">👋 Hi there, I'm Yuetong! 🌊</h1>
 <h3 align="center">A Passionate Full Stack Web Developer and Software Engineer</h3>
 <p align="center">
   <a href="mailto:eve.guo.99@gmail.com">📫 Email</a> |
@@ -68,4 +68,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-<p align="center">&copy; 2023 Eve's Git</p>
+<p align="center">&copy; 2023 Ivy's Git</p>
